@@ -1,4 +1,4 @@
-2021-06-18 Mark's MX notes?
+# 2021-06-18 Mark's MX notes?
 
 book: Thought as a System
 
