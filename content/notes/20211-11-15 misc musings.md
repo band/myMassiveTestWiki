@@ -1,4 +1,4 @@
-# 2021-11-15
+# 2021-11-15 misc musings
 
  - Some random musing: the intro
  
