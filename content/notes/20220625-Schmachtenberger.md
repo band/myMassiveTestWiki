@@ -95,10 +95,5 @@ DS: consilience papers
  - psycho-social health of a society?
 
 ### my report:
-i watched the entire hour; made some notes. one thing i appreciate is
-Daniel's insistence that whatever new systems we construct or invent
-or discover cannot avoid our own shadows and tendencies toward
-corruption. this fits with our own little convo about our own
-individual and shared public, private, and secret lives, mysteries,
-prayers, and magic.
+i watched the entire hour; made some notes. one thing i appreciate is Daniel's insistence that whatever new systems we construct or invent or discover cannot avoid our own shadows and tendencies toward corruption. this fits with our own little convo about our own individual and shared public, private, and secret lives, mysteries, prayers, and magic.
 

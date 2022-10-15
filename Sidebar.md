@@ -4,6 +4,7 @@
 
 ## A wiki page of note
 
+[[20210606-azadiExcerpt|Azadi Excerpt]]
 
 ## General Navigation
 
